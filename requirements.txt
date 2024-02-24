@@ -1,0 +1,7 @@
+# Use "pip install -r requirements.txt " if using windows
+numpy==1.20.2
+openpyxl==3.0.7
+pandas==1.2.3
+matplotlib==3.4.0
+seaborn==0.11.1
+scikit-learn==0.24.1
